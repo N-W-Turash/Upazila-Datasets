@@ -12,7 +12,7 @@
   <li>Literacy Rate</li>
 </ul>
 
-<h3>Education Data of Bangladeshi Upazilas [District Statistics 2011]<h3> 
+<h3>Education Data of Bangladeshi Upazilas [District Statistics 2011]</h3> 
 <ul> 
   <li>Male Literacy Rate</li>
   <li>Female Literacy Rate</li>
